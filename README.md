@@ -1,5 +1,6 @@
+# 301 - This repo was moved to the [eagletrt organisation](https://github.com/eagletrt).
+
 [![Build](https://github.com/eagletrt/telemetria-sender/actions/workflows/build.yml/badge.svg)](https://github.com/eagletrt/telemetria-sender/actions/workflows/build.yml)
-[![General Tests](https://github.com/eagletrt/telemetria-sender/actions/workflows/tests-general.yml/badge.svg)](https://github.com/eagletrt/telemetria-sender/actions/workflows/tests-general.yml)
 [![Partial Tests](https://github.com/eagletrt/telemetria-sender/actions/workflows/tests-partial.yml/badge.svg)](https://github.com/eagletrt/telemetria-sender/actions/workflows/tests-partial.yml)
 [![Moduled Tests](https://github.com/eagletrt/telemetria-sender/actions/workflows/tests-moduled.yml/badge.svg)](https://github.com/eagletrt/telemetria-sender/actions/workflows/tests-moduled.yml)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli)
